@@ -1,0 +1,6 @@
+1: need to add more small floating animations like did with button
+2: work on main page front end, kinda looks like crap rn, look into react for this. (remember front end idea of making it look like an actual jukebox)
+3: add order tree for when you are tabing through
+4: add colapsable navagation bar, looks more complex then origionally thought
+5: add in more of the accsesability stuff
+6: fix images so can display properly on mobile, curently all set to fixed height
